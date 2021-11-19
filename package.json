@@ -1,0 +1,15 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "Practice Unit Testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
